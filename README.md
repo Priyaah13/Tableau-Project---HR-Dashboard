@@ -20,12 +20,13 @@ Display the total number of hired employees, active employees, and terminated em
 ![HR 2](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR2.png)
 
 Visualize the total number of hired and terminated employees over the years.
-Present a breakdown of total employees by department and job titles.
-Compare total employees between headquarters (HQ) and branches (New York is the HQ)
-![HR 4](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%204.png)
 
+Compare total employees between headquarters (HQ) and branches (New York is the HQ)
 Show the distribution of employees by city and state.
 ![HR#](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR3.png)
+
+Present a breakdown of total employees by department and job titles.
+![HR 4](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%204.png)
 
 ## Demographics
 The Demographics section should offer insights into the composition of the workforce, including:
