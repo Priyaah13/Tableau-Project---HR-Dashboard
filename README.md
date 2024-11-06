@@ -22,6 +22,8 @@ Display the total number of hired employees, active employees, and terminated em
 Visualize the total number of hired and terminated employees over the years.
 Present a breakdown of total employees by department and job titles.
 Compare total employees between headquarters (HQ) and branches (New York is the HQ)
+![HR 4](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%204.png)
+
 Show the distribution of employees by city and state.
 ![HR#](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR3.png)
 
