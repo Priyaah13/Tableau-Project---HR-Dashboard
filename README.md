@@ -32,13 +32,18 @@ Present a breakdown of total employees by department and job titles.
 
 ## Demographics
 The Demographics section should offer insights into the composition of the workforce, including:
-
 Present the gender ratio in the company.
+
 ![HR5](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%205.png)
+
 
 Visualize the distribution of employees across age groups and education levels.
 Show the total number of employees within each age group.
 Show the total number of employees within each education level.
+
+![HR 6](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%206.png)
+
+
 Present the correlation between employees’s educational backgrounds and their performance ratings.
 
 ## Income
