@@ -1,5 +1,7 @@
 # Tableau Project- HR Dashboard
 
+https://public.tableau.com/app/profile/shanmuga.priya.s4886/viz/HRDashboard_17295924873250/HRSummary?publish=yes
+
 ##  Project Data –
 
 The data used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data. The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis and visualization in Tableau.
@@ -38,19 +40,28 @@ Present the gender ratio in the company.
 
 
 Visualize the distribution of employees across age groups and education levels.
-Show the total number of employees within each age group.
-Show the total number of employees within each education level.
+
 
 ![HR 6](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%206.png)
 
+Show the total number of employees within each age group.
+Show the total number of employees within each education level.
+
+![HRR](ttps://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%207.png)
+
 
 Present the correlation between employees’s educational backgrounds and their performance ratings.
+
+![HR7](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%208.png)
 
 ## Income
 The income analysis section should focus on salary-related metrics, including:
 
 Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 Present how the age correlate with the salary for employees in each department.
+
+![HR 9](https://github.com/Priyaah13/Tableau-Project---HR-Dashboard/blob/main/HR%209.png)
+
 
 ## Employee Records View
 
